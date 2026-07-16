@@ -18,7 +18,7 @@
 <tr>
 
 <td align="center">
-<a href="www.linkedin.com/in/mayuresh-chavan-760422330">
+<a href="https://www.linkedin.com/in/mayuresh-chavan-760422330/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48">
 </a>
 </td>
