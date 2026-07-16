@@ -58,7 +58,7 @@
 
 ---
 
-## GitHub
+<!-- ## GitHub
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 </div>
 
----
+--- -->
 
 ```text
 PixWizard@github ~
